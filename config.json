@@ -1,14 +1,14 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/yahya-kousa/Terminal-Portfolio/refs/heads/main/README.md",
+  "title": "Yahya Kousa Portfolio",
+  "name": "Yahya Kousa",
+  "ascii": "yahyak",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "yahya-kousa",
+    "linkedin": "yahyakousa"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "yahyakousa@gmail.com",
+  "ps1_hostname": "yahyak",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
